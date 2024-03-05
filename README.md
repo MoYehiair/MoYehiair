@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MoYehiair
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m very interested in Web development
 - 📫 How to reach me myehia.ir@gmail.com
 
 <!---

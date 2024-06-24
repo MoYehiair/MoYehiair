@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MoYehiair
-- 👀 I’m software engineer
+- 👀 I’m a software engineer
 - 📫 How to reach me myehia.ir@gmail.com
 
 <!---
